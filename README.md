@@ -147,9 +147,8 @@ Replace this address in the API endpoint URL within the [trigger_converter.py](.
 
 ## Authors
 
-This project is created by [MLSA KIIT](https://mlsakiit.com) for Cloud Computing Domain's Project Wing:
 
-- Sourasish Basu ([@SourasishBasu](https://github.com/SourasishBasu)) - [MLSA KIIT](https://mlsakiit.com)
+- Subandhu ([@retrojokerr](https://github.com/retrojokerr)) - [MLSA KIIT](https://mlsakiit.com)
 
 ## Version
 | Version | Date          		| Comments        |
